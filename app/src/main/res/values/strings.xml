@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS4203 Project Winson</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="tutorial_content">
+    Welcome to <i>Physic Chic</i>! This is a voice-dependent game that is sure to
+    keep you entertained for hours! Before starting, do ensure that there is minimal
+    background noise. Vary your voice tone and pitch to swing the pendulum at different
+    frequencies, and tap to release the character from the pendulum. Your aim is to travel
+    the furthest distance and collect as many points as possible. Good luck and have fun!
+</string>
+</resources>
